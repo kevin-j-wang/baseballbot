@@ -1,6 +1,8 @@
-# pybaseball
 
-Baseball data scraping and analysis tools in python
+
+# Fork of pybaseball
+
+Uses pybaseball to provide api for baseballbot, a discord bot with fantasy baseball functionality and more.
 
 ## Overview
 
